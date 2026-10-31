@@ -1,4 +1,4 @@
-# Hi there, I'm Sireebos 👋
+# Hi there, I'm Imax 👋
 
 ### Full-Stack Systems Architect | AI Systems Engineer | Cloud Infrastructure Engineer
 

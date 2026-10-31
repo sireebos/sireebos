@@ -65,7 +65,7 @@ I enjoy working across the entire technology stack: application architecture, ba
 | [🏢 DataCenter Control Suite](https://github.com/sireebos/DataCenter) | `Docker` `Nginx` `Node.js` `PostgreSQL` | Datacenter telemetry, rack and node monitoring, and automated container deployment. |
 | [🏝️ Island Desktop Runtime](https://github.com/sireebos/island) 🔒 | `Rust` `Tauri` `React` `Vite` | Native desktop dynamic island overlay combining Rust system integration with a modern glassmorphic reactive interface. |
 | 🎓 Schools Portal SaaS | `PHP` `Laravel` `PostgreSQL` `Docker` | School management and subscription platform with payment gateway integration and SaaS architecture. |
-| ⚽ AI Football Prediction Engine | `Python` `APIs` `SQL` `Data Analytics` | Football data collection, league memory, match statistics, odds analysis, and prediction engine development. |
+| [⚽ AI Football Prediction Engine](https://github.com/sireebos/football-prediction-engine) 🔒 | `Python` `curl_cffi` `Pandas` `SQL` `Data Analytics` | Football telemetry collection, league standings memory, match statistics, odds analysis, and prediction engine development. |
 | 🧠 Local AI Infrastructure | `Ollama` `Qwen` `NVIDIA` `Linux` | Local LLM deployment, GPU acceleration, inference optimization, and AI development environments. |
 
 ---

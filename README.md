@@ -60,7 +60,7 @@ I enjoy working across the entire technology stack: application architecture, ba
 
 | Project | Architecture & Stack | Highlights |
 |---|---|---|
-| ⚡ CloudVPS Control Plane *(Private / Enterprise)* | `TypeScript` `Fastify` `React` `Prisma` `Docker` `Nginx` | Multi-portal hosting suite featuring WHM administration, cPanel workspace, WHMCS billing, storefront CMS, and VPS automation. |
+| [⚡ CloudVPS Control Plane](https://github.com/sireebos/vps_template) 🔒 | `TypeScript` `Fastify` `React` `Prisma` `Docker` `Nginx` | Multi-portal hosting suite featuring WHM administration, cPanel workspace, WHMCS billing, storefront CMS, and VPS automation. |
 | [🏢 DataCenter Control Suite](https://github.com/sireebos/DataCenter) | `Docker` `Nginx` `Node.js` `PostgreSQL` | Datacenter telemetry, rack and node monitoring, and automated container deployment. |
 | [🏝️ Island Desktop Runtime](https://github.com/sireebos/island) | `Rust` `Tauri` `React` `Vite` | Native desktop runtime combining Rust system integration with a modern reactive interface. |
 | 🎓 Schools Portal SaaS | `PHP` `Laravel` `PostgreSQL` `Docker` | School management and subscription platform with payment gateway integration and SaaS architecture. |
